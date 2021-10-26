@@ -6,5 +6,4 @@
 - You can find me:
   - [Instagram](https://www.instagram.com/facundev/) - [Blog](https://www.facun.dev/) 🛠 <i>coming soon</i>.
 
-<h3> My Stats </h3>
 [![facundosalazar's github stats](https://github-readme-stats.vercel.app/api?username=facundosalazar)](https://github.com/anuraghazra/github-readme-stats)
