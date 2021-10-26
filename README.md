@@ -13,7 +13,7 @@ const facundev = {
   learning: [SQL, NoSQL]
  }
 ```
-### You can find me:
+### Social Media
 ##### [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/instagram.svg" height="40em" align="center" alt="Follow Facundev on Instagram" title="Follow Facundev on Instagram"/>](https://www.instagram.com/facundev/)
 ##### [Blog](https://www.facun.dev/) 🛠 <i>coming soon</i>.
 
