@@ -8,9 +8,18 @@
 ```javascript
 const facundev = {
   pronuns: "he" , "him"
-  code: [HTML, CSS, Javascript, TypeScript, Python]
-  tools: [React, Node]
-  learning: [SQL, NoSQL]
+  code: [ HTML, CSS, SASS, Javascript, Python(at the university) ]
+  tools: [Webpack, GIT & GITHub]
+  learning: [
+    Web: {
+      Front: ReactJS,
+      Back: NodeJS,
+    }
+    DataBases: {
+      SQL: SQL Server,
+      NoSQL: MongoDB,
+    }
+  ]
  }
 ```
 ### Social Media
