@@ -3,12 +3,7 @@
 #### 👀 I’m interested in Technology.
 #### 💻 I’m currently learning Web Development. 
 #### 👨🏻‍💻 I’m looking a job as Junior FrontEnd Developer.
-#### 📕 <a href="https://www.udemy.com/user/facundo-valentin-salazar-2/" targe="_blank" style="text-decoration:none;">My udemy</a>
-<style type="text/css">
- a { color: #000000;
-     text-decoration: none;
-  }
-</style>
+#### 📕 <a href="https://www.udemy.com/user/facundo-valentin-salazar-2/" targe="_blank" <style type="text/css"> a { color: #000000;text-decoration: none;}> My udemy </a> </style>
 ## About me in code:
 ```javascript
 const facundev = {
