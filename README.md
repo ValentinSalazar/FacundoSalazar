@@ -3,7 +3,7 @@
 #### 👀 I’m interested in Technology.
 #### 💻 I’m currently learning Web Development. 
 #### 👨🏻‍💻 I’m looking a job as Junior FrontEnd Developer.
-
+## udemy.com/user/facundo-valentin-salazar-2/
 ## About me in code:
 ```javascript
 const facundev = {
@@ -11,7 +11,6 @@ const facundev = {
   code: [ HTML, CSS, SASS, Javascript, Python(at the university) ]
   tools: [Webpack, GIT & GITHub]
   learning: [
-   Udemy: { udemy.com/user/facundo-valentin-salazar-2/ },
     Web: {
       Front: ReactJS,
       Back: NodeJS,
