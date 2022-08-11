@@ -2,21 +2,20 @@
 #### 👋 Hi, I’m Facundo.
 #### 👀 I’m interested in Technology.
 #### 💻 I’m currently learning Web Development. 
-#### 👨🏻‍💻 I’m looking for a job as Junior FrontEnd Developer.
+#### 👨🏻‍💻 I’m looking for a job as Junior Web Developer.
 #### 📕 <a href="https://www.udemy.com/user/facundo-valentin-salazar-2/" targe="_blank"> My udemy </a>
 ## About me in code:
 ```javascript
 const facundev = {
   pronuns: "he" , "him"
-  code: [ HTML, CSS, SASS, Javascript, Python(at the university) ]
+  code: [ HTML, CSS, SASS, Javascript, Python(at university) ]
   tools: [Webpack, GIT & GITHub]
   learning: [
     Web: {
-      Front: ReactJS,
+      Front: Vanilla JS (at the moment),
       Back: NodeJS,
     }
     DataBases: {
-      SQL: SQL Server,
       NoSQL: MongoDB,
     }
   ]
