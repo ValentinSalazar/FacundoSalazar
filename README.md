@@ -12,7 +12,7 @@ const facundev = {
   tools: [Webpack, GIT & GITHub]
   learning: [
     Web: {
-      Front: Vanilla JS (at the moment),
+      Front: Vanilla JS,
       Back: NodeJS,
     }
     DataBases: {
