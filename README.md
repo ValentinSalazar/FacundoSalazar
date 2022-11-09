@@ -4,7 +4,7 @@
 ```javascript
 const facundev = {
   pronuns: "he" , "him"
-  code: [ HTML, CSS, SASS, Javascript, Python(at university) ]
+  code: [ Python, Javascript, HTML, CSS, SASS ]
   tools: [Webpack, GIT & GITHub]
   learning: [
     Web: {
