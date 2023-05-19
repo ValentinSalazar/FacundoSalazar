@@ -3,25 +3,16 @@
 ## About me in code:
 ```javascript
 const facundev = {
-  pronuns: "he" , "him"
-  code: [ Java, Python, Javascript, HTML, CSS, SASS ]
-  tools: [Webpack, GIT & GITHub]
+  code: [ 'Java', 'Python', 'JavaScript, 'HTML', 'CSS', 'SASS' ]
+  databases: ['E-R Model', 'Relational Algebra', 'SQL', 'SQL Server'],
   learning: [
     Web: {
-      Front: Vanilla JS, ReactJS
-      Back: NodeJS,
+      FrontEnd: 'ReactJS'
+      BackEnd: NodeJS,
     }
     DataBases: {
-      NoSQL: MongoDB,
-      SQL: SQL Server
+      NoSQL: ['MongoDB', 'MongoDB Atlas'],
     }
   ]
  }
 ```
-### Social Media
-##### [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/instagram.svg" height="40em" align="center" alt="Follow Facundev on Instagram" title="Follow Facundev on Instagram"/>](https://www.instagram.com/facundev/)
-##### [Blog](https://www.facun.dev/) 🛠 <i>coming soon</i>.
-
-### Stats
-[![facundosalazar's github stats](https://github-readme-stats.vercel.app/api?username=facundosalazar)](https://github.com/anuraghazra/github-readme-stats)
-
