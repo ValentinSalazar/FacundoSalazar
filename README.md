@@ -8,7 +8,7 @@ const facundev = {
   learning: [
     Web: {
       FrontEnd: 'ReactJS'
-      BackEnd: NodeJS,
+      BackEnd: 'NodeJS',
     }
     DataBases: {
       NoSQL: ['MongoDB', 'MongoDB Atlas'],
