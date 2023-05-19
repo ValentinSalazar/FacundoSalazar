@@ -4,15 +4,16 @@
 ```javascript
 const facundev = {
   pronuns: "he" , "him"
-  code: [ Python, Javascript, HTML, CSS, SASS ]
+  code: [ Java, Python, Javascript, HTML, CSS, SASS ]
   tools: [Webpack, GIT & GITHub]
   learning: [
     Web: {
-      Front: Vanilla JS,
+      Front: Vanilla JS, ReactJS
       Back: NodeJS,
     }
     DataBases: {
       NoSQL: MongoDB,
+      SQL: SQL Server
     }
   ]
  }
