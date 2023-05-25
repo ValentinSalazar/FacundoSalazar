@@ -1,6 +1,6 @@
 ## Welcome! Thanks for being here ❤️
 #### 📕 <a href="https://www.udemy.com/user/facundo-valentin-salazar-2/" targe="_blank"> My udemy </a>
-## About me in code:
+## Skills:
 ```javascript
 const facundev = {
   code: [ 'Java', 'Python', 'JavaScript, 'HTML', 'CSS', 'SASS' ]
