@@ -5,8 +5,11 @@ As I say before, my name is Facundo and I was born in San Pedro, but I moved to 
 I've studied Software Engineering at <a href="https://www.uade.edu.ar/" target="_blank">UADE</a> for 2 years, but I quit and now I'm at <a href="https://www.uba.ar" target="_blank">UBA</a>
 
 ## Skills
-- Code: Java, Python, JavaScript, HTML, CSS, SASS.
+- Java: Abstract Data Types. Dynamic Lists. Trees. Recursion.
+- Python: Data Structures & Algorithms.
+- JavaScript: Data Structures. Sync/Async. Fetch API. Axios. DOM Manipulation.
 - Databases: E-R Model, Relational Algebra, SQL, SQL Server.
+- CSS, SASS. 
 
 ## Learning
 - ReactJS and NodeJS at Udemy.
