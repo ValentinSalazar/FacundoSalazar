@@ -12,6 +12,7 @@ I've studied Software Engineering at <a href="https://www.uade.edu.ar/" target="
 - CSS, SASS. 
 
 ## Learning
-- ReactJS and NodeJS at Udemy.
-- MongoDB at Udemy.
+- ReactJS (React Router v6. Redux. RKT Query) at Udemy.
+- NodeJS at Udemy.
+- MongoDB and MongoDB Atlas at Udemy.
 - #### 📕 <a href="https://www.udemy.com/user/facundo-valentin-salazar-2/" target="_blank"> My udemy </a>
