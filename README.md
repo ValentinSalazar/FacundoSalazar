@@ -1,8 +1,9 @@
 ## Welcome! Thanks for being here ❤️
 
 ## About me
-As I say before, my name is Facundo and I was born in San Pedro, but I moved to Buenos Aires because of study. 
-I've studied Software Engineering at <a href="https://www.uade.edu.ar/" target="_blank">UADE</a> for 2 years, but I quit and now I'm at <a href="https://www.uba.ar" target="_blank">UBA</a>
+As I say before, my name is Facundo and I was born in San Pedro, but I moved to Buenos Aires because of study.
+
+I've studied Software Engineering at <a href="https://www.uade.edu.ar/" target="_blank">UADE</a> for 2 years, but I quit and now I'm at <a href="https://www.uba.ar" target="_blank">UBA</a>.
 
 ## Skills
 - Java: Abstract Data Types. Dynamic Lists. Trees. Recursion.
