@@ -10,7 +10,7 @@ I've studied Software Engineering at <a href="https://www.uade.edu.ar/" target="
 - Python: Data Structures & Algorithms.
 - JavaScript: Data Structures. Sync/Async. Fetch API. Axios. DOM Manipulation.
 - Databases: E-R Model, Relational Algebra, SQL, SQL Server.
-- CSS, SASS. 
+- CSS, SASS. TailwindCSS.
 
 ## Learning
 - ReactJS (React Router v6. Redux. RKT Query) at Udemy.
